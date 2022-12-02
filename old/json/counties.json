@@ -1,0 +1,940 @@
+[
+    {
+        "country": 432880,
+        "county": "VR",
+        "name": "Valmiera",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "VK",
+        "name": "Valka",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "VE",
+        "name": "Ventspils",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "TU",
+        "name": "Tukums",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "TS",
+        "name": "Talsi",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "SD",
+        "name": "Saldus",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "RR",
+        "name": "Riga",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "RE",
+        "name": "Rezekne",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "PR",
+        "name": "Preili",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "OE",
+        "name": "Ogre",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "MD",
+        "name": "Madona",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "LU",
+        "name": "Ludza",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "LM",
+        "name": "Limbazi",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "LI",
+        "name": "Liepaja",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "KV",
+        "name": "Kraslava",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "KG",
+        "name": "Kuldiga",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "JP",
+        "name": "Jekabpils",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "JE",
+        "name": "Jelgava",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "GU",
+        "name": "Gulbene",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "DO",
+        "name": "Dobele",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "DG",
+        "name": "Daugavpils",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "CE",
+        "name": "Cesis",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "BV",
+        "name": "Balvi",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "BA",
+        "name": "Bauska",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "AU",
+        "name": "Aluksne",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 432880,
+        "county": "AI",
+        "name": "Aizkraukle",
+        "dxcc": 432880,
+        "active": true
+    },
+    {
+        "country": 1705567,
+        "county": "IS",
+        "name": "Island",
+        "dxcc": 1705567,
+        "active": true
+    },
+    {
+        "country": 9570746,
+        "county": "FA",
+        "name": "Faroe Islands",
+        "dxcc": 2924007,
+        "active": true
+    },
+    {
+        "country": 3600431,
+        "county": "VF",
+        "name": "Viken",
+        "dxcc": 3600431,
+        "active": true
+    },
+    {
+        "country": 3600431,
+        "county": "TR",
+        "name": "Trøndelag",
+        "dxcc": 3600431,
+        "active": true
+    },
+    {
+        "country": 3600431,
+        "county": "TE",
+        "name": "Vestfold og Telemark",
+        "dxcc": 3600431,
+        "active": true
+    },
+    {
+        "country": 3600431,
+        "county": "SV",
+        "name": "Svalbard",
+        "dxcc": 3600431,
+        "active": true
+    },
+    {
+        "country": 3600431,
+        "county": "ST",
+        "name": "Sör Tröndelag",
+        "dxcc": 3600431,
+        "active": false
+    },
+    {
+        "country": 3600431,
+        "county": "SF",
+        "name": "Sogn og Fjordane",
+        "dxcc": 3600431,
+        "active": false
+    },
+    {
+        "country": 3600431,
+        "county": "RL",
+        "name": "Rogaland",
+        "dxcc": 3600431,
+        "active": true
+    },
+    {
+        "country": 3600431,
+        "county": "OS",
+        "name": "Oslo",
+        "dxcc": 3600431,
+        "active": true
+    },
+    {
+        "country": 3600431,
+        "county": "OP",
+        "name": "Oppland",
+        "dxcc": 3600431,
+        "active": false
+    },
+    {
+        "country": 3600431,
+        "county": "OF",
+        "name": "Östfold",
+        "dxcc": 3600431,
+        "active": false
+    },
+    {
+        "country": 3600431,
+        "county": "NT",
+        "name": "Nord Tröndelag",
+        "dxcc": 3600431,
+        "active": false
+    },
+    {
+        "country": 3600431,
+        "county": "NO",
+        "name": "Nordland",
+        "dxcc": 3600431,
+        "active": true
+    },
+    {
+        "country": 3600431,
+        "county": "MR",
+        "name": "Möre og Romsdal",
+        "dxcc": 3600431,
+        "active": false
+    },
+    {
+        "country": 3600431,
+        "county": "MO",
+        "name": "Møre og Romsdal",
+        "dxcc": 3600431,
+        "active": true
+    },
+    {
+        "country": 3600431,
+        "county": "IN",
+        "name": "Innlandet",
+        "dxcc": 3600431,
+        "active": true
+    },
+    {
+        "country": 3600431,
+        "county": "HO",
+        "name": "Vestland",
+        "dxcc": 3600431,
+        "active": true
+    },
+    {
+        "country": 3600431,
+        "county": "HE",
+        "name": "Hedemark",
+        "dxcc": 3600431,
+        "active": false
+    },
+    {
+        "country": 3600431,
+        "county": "FI",
+        "name": "Troms og Finnmark",
+        "dxcc": 3600431,
+        "active": true
+    },
+    {
+        "country": 3600431,
+        "county": "BU",
+        "name": "Buskerud",
+        "dxcc": 3600431,
+        "active": false
+    },
+    {
+        "country": 3600431,
+        "county": "BO",
+        "name": "Bjørn Øya Svalbard",
+        "dxcc": 3600431,
+        "active": true
+    },
+    {
+        "country": 3600431,
+        "county": "AK",
+        "name": "Akershus",
+        "dxcc": 3600431,
+        "active": false
+    },
+    {
+        "country": 3600431,
+        "county": "AG",
+        "name": "Agder",
+        "dxcc": 3600431,
+        "active": true
+    },
+    {
+        "country": 3600431,
+        "county": "AA",
+        "name": "Aust Agder",
+        "dxcc": 3600431,
+        "active": false
+    },
+    {
+        "country": 3904869,
+        "county": "VN",
+        "name": "Västernorrland",
+        "dxcc": 3904869,
+        "active": true
+    },
+    {
+        "country": 3904869,
+        "county": "VM",
+        "name": "Västmanland",
+        "dxcc": 3904869,
+        "active": true
+    },
+    {
+        "country": 3904869,
+        "county": "VL",
+        "name": "Värmland",
+        "dxcc": 3904869,
+        "active": true
+    },
+    {
+        "country": 3904869,
+        "county": "VD",
+        "name": "Västra Götaland",
+        "dxcc": 3904869,
+        "active": true
+    },
+    {
+        "country": 3904869,
+        "county": "VB",
+        "name": "Västerbotten",
+        "dxcc": 3904869,
+        "active": true
+    },
+    {
+        "country": 3904869,
+        "county": "UP",
+        "name": "Uppsala",
+        "dxcc": 3904869,
+        "active": true
+    },
+    {
+        "country": 3904869,
+        "county": "SO",
+        "name": "Södermanland",
+        "dxcc": 3904869,
+        "active": true
+    },
+    {
+        "country": 3904869,
+        "county": "SL",
+        "name": "Stockholm",
+        "dxcc": 3904869,
+        "active": true
+    },
+    {
+        "country": 3904869,
+        "county": "SE",
+        "name": "Skåne",
+        "dxcc": 3904869,
+        "active": true
+    },
+    {
+        "country": 3904869,
+        "county": "OR",
+        "name": "Örebro",
+        "dxcc": 3904869,
+        "active": true
+    },
+    {
+        "country": 3904869,
+        "county": "OG",
+        "name": "Östergötland",
+        "dxcc": 3904869,
+        "active": true
+    },
+    {
+        "country": 3904869,
+        "county": "NB",
+        "name": "Norrbotten",
+        "dxcc": 3904869,
+        "active": true
+    },
+    {
+        "country": 3904869,
+        "county": "KR",
+        "name": "Kronoberg",
+        "dxcc": 3904869,
+        "active": true
+    },
+    {
+        "country": 3904869,
+        "county": "KA",
+        "name": "Kalmar",
+        "dxcc": 3904869,
+        "active": true
+    },
+    {
+        "country": 3904869,
+        "county": "JO",
+        "name": "Jönköping",
+        "dxcc": 3904869,
+        "active": true
+    },
+    {
+        "country": 3904869,
+        "county": "JL",
+        "name": "Jämtland",
+        "dxcc": 3904869,
+        "active": true
+    },
+    {
+        "country": 3904869,
+        "county": "HA",
+        "name": "Halland",
+        "dxcc": 3904869,
+        "active": true
+    },
+    {
+        "country": 3904869,
+        "county": "GO",
+        "name": "Gotland",
+        "dxcc": 3904869,
+        "active": true
+    },
+    {
+        "country": 3904869,
+        "county": "GA",
+        "name": "Gävleborg",
+        "dxcc": 3904869,
+        "active": true
+    },
+    {
+        "country": 3904869,
+        "county": "DA",
+        "name": "Dalarna",
+        "dxcc": 3904869,
+        "active": true
+    },
+    {
+        "country": 3904869,
+        "county": "BL",
+        "name": "Blekinge",
+        "dxcc": 3904869,
+        "active": true
+    },
+    {
+        "country": 4907969,
+        "county": "VA",
+        "name": "Varsinais-Suomi",
+        "dxcc": 4907969,
+        "active": true
+    },
+    {
+        "country": 4907969,
+        "county": "UU",
+        "name": "Uusimaa",
+        "dxcc": 4907969,
+        "active": true
+    },
+    {
+        "country": 4907969,
+        "county": "SA",
+        "name": "Satakunta",
+        "dxcc": 4907969,
+        "active": true
+    },
+    {
+        "country": 4907969,
+        "county": "PS",
+        "name": "Pohjois-Savo",
+        "dxcc": 4907969,
+        "active": true
+    },
+    {
+        "country": 4907969,
+        "county": "PP",
+        "name": "Pohjois-Pohjanmaa",
+        "dxcc": 4907969,
+        "active": true
+    },
+    {
+        "country": 4907969,
+        "county": "PO",
+        "name": "Pohjanmaa",
+        "dxcc": 4907969,
+        "active": true
+    },
+    {
+        "country": 4907969,
+        "county": "PM",
+        "name": "Pirkanmaa",
+        "dxcc": 4907969,
+        "active": true
+    },
+    {
+        "country": 4907969,
+        "county": "PK",
+        "name": "Pohjois-Karjala",
+        "dxcc": 4907969,
+        "active": true
+    },
+    {
+        "country": 4907969,
+        "county": "PH",
+        "name": "Päijät-Häme",
+        "dxcc": 4907969,
+        "active": true
+    },
+    {
+        "country": 4907969,
+        "county": "LA",
+        "name": "Lappi",
+        "dxcc": 4907969,
+        "active": true
+    },
+    {
+        "country": 4907969,
+        "county": "KU",
+        "name": "Kainuu",
+        "dxcc": 4907969,
+        "active": true
+    },
+    {
+        "country": 4907969,
+        "county": "KT",
+        "name": "Kanta-Häme",
+        "dxcc": 4907969,
+        "active": true
+    },
+    {
+        "country": 4907969,
+        "county": "KP",
+        "name": "Keski-Pohjanmaa",
+        "dxcc": 4907969,
+        "active": true
+    },
+    {
+        "country": 4907969,
+        "county": "KL",
+        "name": "Kymenlaakso",
+        "dxcc": 4907969,
+        "active": true
+    },
+    {
+        "country": 4907969,
+        "county": "KE",
+        "name": "Keski-Suomi",
+        "dxcc": 4907969,
+        "active": true
+    },
+    {
+        "country": 4907969,
+        "county": "ES",
+        "name": "Etelä-Savo",
+        "dxcc": 4907969,
+        "active": true
+    },
+    {
+        "country": 4907969,
+        "county": "EP",
+        "name": "Etelä-Pohjanmaa",
+        "dxcc": 4907969,
+        "active": true
+    },
+    {
+        "country": 4907969,
+        "county": "EK",
+        "name": "Etelä-Karjala",
+        "dxcc": 4907969,
+        "active": true
+    },
+    {
+        "country": 9570746,
+        "county": "GR",
+        "name": "Greenland",
+        "dxcc": 5015810,
+        "active": true
+    },
+    {
+        "country": 4907969,
+        "county": "AL",
+        "name": "Ahvenanmaa",
+        "dxcc": 5722041,
+        "active": true
+    },
+    {
+        "country": 3600431,
+        "county": "JA",
+        "name": "Jan Mayen",
+        "dxcc": 5833374,
+        "active": true
+    },
+    {
+        "country": 9038233,
+        "county": "VP",
+        "name": "Viljandi",
+        "dxcc": 9038233,
+        "active": true
+    },
+    {
+        "country": 9038233,
+        "county": "VO",
+        "name": "Võru",
+        "dxcc": 9038233,
+        "active": true
+    },
+    {
+        "country": 9038233,
+        "county": "VC",
+        "name": "Valga",
+        "dxcc": 9038233,
+        "active": true
+    },
+    {
+        "country": 9038233,
+        "county": "TL",
+        "name": "Tallinn",
+        "dxcc": 9038233,
+        "active": true
+    },
+    {
+        "country": 9038233,
+        "county": "TA",
+        "name": "Tartu",
+        "dxcc": 9038233,
+        "active": true
+    },
+    {
+        "country": 9038233,
+        "county": "SR",
+        "name": "Saare",
+        "dxcc": 9038233,
+        "active": true
+    },
+    {
+        "country": 9038233,
+        "county": "RP",
+        "name": "Rapla",
+        "dxcc": 9038233,
+        "active": true
+    },
+    {
+        "country": 9038233,
+        "county": "PU",
+        "name": "Pärnu",
+        "dxcc": 9038233,
+        "active": true
+    },
+    {
+        "country": 9038233,
+        "county": "PL",
+        "name": "Pölva",
+        "dxcc": 9038233,
+        "active": true
+    },
+    {
+        "country": 9038233,
+        "county": "LV",
+        "name": "Lääne-Viru",
+        "dxcc": 9038233,
+        "active": true
+    },
+    {
+        "country": 9038233,
+        "county": "LN",
+        "name": "Lääne",
+        "dxcc": 9038233,
+        "active": true
+    },
+    {
+        "country": 9038233,
+        "county": "JR",
+        "name": "Järva",
+        "dxcc": 9038233,
+        "active": true
+    },
+    {
+        "country": 9038233,
+        "county": "JG",
+        "name": "Jõgeva",
+        "dxcc": 9038233,
+        "active": true
+    },
+    {
+        "country": 9038233,
+        "county": "IV",
+        "name": "Ida-Viru",
+        "dxcc": 9038233,
+        "active": true
+    },
+    {
+        "country": 9038233,
+        "county": "HR",
+        "name": "Harju",
+        "dxcc": 9038233,
+        "active": true
+    },
+    {
+        "country": 9038233,
+        "county": "HM",
+        "name": "Hiiu",
+        "dxcc": 9038233,
+        "active": true
+    },
+    {
+        "country": 9570746,
+        "county": "VS",
+        "name": "Sjaelland",
+        "dxcc": 9570746,
+        "active": true
+    },
+    {
+        "country": 9570746,
+        "county": "VJ",
+        "name": "Midtjylland",
+        "dxcc": 9570746,
+        "active": true
+    },
+    {
+        "country": 9570746,
+        "county": "SS",
+        "name": "SS (deleted)",
+        "dxcc": 9570746,
+        "active": false
+    },
+    {
+        "country": 9570746,
+        "county": "SJ",
+        "name": "Syddanmark",
+        "dxcc": 9570746,
+        "active": true
+    },
+    {
+        "country": 9570746,
+        "county": "RO",
+        "name": "(RO) deleted",
+        "dxcc": 9570746,
+        "active": true
+    },
+    {
+        "country": 9570746,
+        "county": "NJ",
+        "name": "Nordjylland",
+        "dxcc": 9570746,
+        "active": true
+    },
+    {
+        "country": 9570746,
+        "county": "KH",
+        "name": "Hovedstaden",
+        "dxcc": 9570746,
+        "active": true
+    },
+    {
+        "country": 9570746,
+        "county": "FY",
+        "name": "FY (deleted)",
+        "dxcc": 9570746,
+        "active": false
+    },
+    {
+        "country": 9570746,
+        "county": "FB",
+        "name": "FB (deleted)",
+        "dxcc": 9570746,
+        "active": false
+    },
+    {
+        "country": 9570746,
+        "county": "BH",
+        "name": "Bornholm",
+        "dxcc": 9570746,
+        "active": true
+    },
+    {
+        "country": 9900349,
+        "county": "VV",
+        "name": "Vilnius",
+        "dxcc": 9900349,
+        "active": true
+    },
+    {
+        "country": 9900349,
+        "county": "VU",
+        "name": "Vilnius-city",
+        "dxcc": 9900349,
+        "active": true
+    },
+    {
+        "country": 9900349,
+        "county": "UT",
+        "name": "Utena",
+        "dxcc": 9900349,
+        "active": true
+    },
+    {
+        "country": 9900349,
+        "county": "TI",
+        "name": "Telsiai",
+        "dxcc": 9900349,
+        "active": true
+    },
+    {
+        "country": 9900349,
+        "county": "TG",
+        "name": "Taurage",
+        "dxcc": 9900349,
+        "active": true
+    },
+    {
+        "country": 9900349,
+        "county": "SU",
+        "name": "Siauliai",
+        "dxcc": 9900349,
+        "active": true
+    },
+    {
+        "country": 9900349,
+        "county": "SI",
+        "name": "Siauliai-city",
+        "dxcc": 9900349,
+        "active": true
+    },
+    {
+        "country": 9900349,
+        "county": "PN",
+        "name": "Panevezys-city",
+        "dxcc": 9900349,
+        "active": true
+    },
+    {
+        "country": 9900349,
+        "county": "PA",
+        "name": "Panevezys",
+        "dxcc": 9900349,
+        "active": true
+    },
+    {
+        "country": 9900349,
+        "county": "MM",
+        "name": "Marijampole",
+        "dxcc": 9900349,
+        "active": true
+    },
+    {
+        "country": 9900349,
+        "county": "KN",
+        "name": "Kaunas",
+        "dxcc": 9900349,
+        "active": true
+    },
+    {
+        "country": 9900349,
+        "county": "KM",
+        "name": "Kaunas-city",
+        "dxcc": 9900349,
+        "active": true
+    },
+    {
+        "country": 9900349,
+        "county": "KI",
+        "name": "Klaipeda",
+        "dxcc": 9900349,
+        "active": true
+    },
+    {
+        "country": 9900349,
+        "county": "KD",
+        "name": "Klaipeda-city",
+        "dxcc": 9900349,
+        "active": true
+    },
+    {
+        "country": 9900349,
+        "county": "AT",
+        "name": "Alytus",
+        "dxcc": 9900349,
+        "active": true
+    }
+]
